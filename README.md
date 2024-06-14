@@ -1,5 +1,77 @@
 # Command-line Inventory Application Project
 
+This command-line inventory application allows users to manage an inventory of airplanes, by performing various operations such as creating, viewing, updating, and deleting items. The user can also add items to a cart and remove them from it.
+
+
+## To create an item you can run
+
+node index.js create or npm run create
+
+## To view all items in the inventory and their information, use the `index` command:
+
+node index.js index or npm run index
+
+## To view details of a single item by its ID, use the `show` command followed by the item ID:
+
+node index.js show "items.id" or npm run show "items.id"
+
+## To update an item's details, use the `update` command followed by the item ID and the new values for price, name, and stock status:
+
+node index.js update "item.id" "newPrice" "newName" "newStockStatus" or npm run update abcd 2999.99 "New Airplane Name"
+
+EX: node index.js update abcd 2999.99 "New Airplane Name" true 
+
+
+## To delete an item from the inventory, use the `destroy` command followed by the item ID:
+
+node index.js destroy "item.id" or npm run destroy "item.id
+
+## To view all items in the cart, use the `view-cart` command:
+
+node index.js view-cart or npm run view-cart
+
+## To add an item to the cart, use the `add-to-cart command` followed by the item ID:
+
+node index.js add-to-cart "item.id" or npm run add-to-cart "item.id"
+
+
+## To remove an item from the cart, use the `remove-from-cart` command followed by the item ID:
+
+node index.js remove-from-cart "item.id" or npm run remove-from-cart "item.id"
+
+
+## To completely empty the cart, use the `empty-cart` command :
+
+node index.js empty-cart or npm run empty-cart
+
+
+
+----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Command-line Inventory Application Project
+
 Bringing together all you've learned so far, about JavaScript and building applications, build a Command-line Inventory Application. It will be an application where employees can keep track of the inventory of a store. Employees can create new items, update items, see a list of items, see details of one item and delete items. Your application should choose a particular resource or theme and be named appropriately.
 
 ## Project Scoring
@@ -65,3 +137,9 @@ There are no tests for this project and you _should not_ fork and clone this rep
 ## Example
 
 For example, you can choose to track the inventory of "cookies" at a bakery. In that case, the keys you store for each cookie could be "name", "priceInCents", "inStock", and "isVegan". Alternatively, you could track "shoes" at a shoe store. In addition to the required keys, you might also track `shoeSize`.
+
+----------------------------------------------------------------
+
+
+
+

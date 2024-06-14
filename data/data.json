@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Airbus A310-300",
+    "id": "ZloK",
+    "priceInCents": "$2374625.00",
+    "aircraftType": "widebody",
+    "airport": "Recife Guararapes-Gilberto Freyre International Airport",
+    "airline": "Tunisair",
+    "inStock": true
+  },
+  {
+    "name": "Douglas DC-10-30",
+    "id": "NL_f",
+    "priceInCents": "$6966154.00",
+    "aircraftType": "widebody",
+    "airport": "Leonardo da Vinci-Fiumicino Airport",
+    "airline": "Easyfly",
+    "inStock": true
+  },
+  {
+    "name": "Boeing 767-200",
+    "id": "Hj_6",
+    "priceInCents": "$1780219.00",
+    "aircraftType": "widebody",
+    "airport": "Chhatrapati Shivaji International Airport",
+    "airline": "SpiceJet",
+    "inStock": true
+  },
+  {
+    "name": "McDonnell Douglas MD87",
+    "id": "VNZ4",
+    "priceInCents": "$5106359.00",
+    "aircraftType": "regional",
+    "airport": "Viracopos International Airport",
+    "airline": "Lion Air",
+    "inStock": true
+  },
+  {
+    "name": "Douglas DC-10-30",
+    "id": "G7KD",
+    "priceInCents": "$3401347.00",
+    "aircraftType": "narrowbody",
+    "airport": "Sao Paulo-Congonhas Airport",
+    "airline": "VOEPASS Linhas Aereas",
+    "inStock": true
+  },
+  {
+    "name": "Airbus A340-300",
+    "id": "Kh4B",
+    "priceInCents": "$2048572.00",
+    "aircraftType": "regional",
+    "airport": "Moscow Domodedovo Airport",
+    "airline": "Wizz Air",
+    "inStock": true
+  },
+  {
+    "name": "Airbus A310-200",
+    "id": "vWGQ",
+    "priceInCents": "$2628158.00",
+    "aircraftType": "widebody",
+    "airport": "Jacksons International Airport",
+    "airline": "Cathay Pacific",
+    "inStock": true
+  },
+  {
+    "name": "Airbus A321",
+    "id": "DJBY",
+    "priceInCents": "$2603216.00",
+    "aircraftType": "regional",
+    "airport": "Shanghai Hongqiao International Airport",
+    "airline": "Alaska Airlines",
+    "inStock": true
+  },
+  {
+    "name": "Embraer 170",
+    "id": "0npj",
+    "priceInCents": "$7331824.00",
+    "aircraftType": "regional",
+    "airport": "Oslo Lufthavn",
+    "airline": "Cebu Pacific Air",
+    "inStock": true
+  },
+  {
+    "name": "Boeing 737-900",
+    "id": "5-hm",
+    "priceInCents": "$7394891.00",
+    "aircraftType": "widebody",
+    "airport": "Berlin-Tegel Airport",
+    "airline": "South African Airways",
+    "inStock": true
+  },
+  {
+    "name": "Douglas DC-9-10",
+    "id": "efcR",
+    "priceInCents": "$8738580.00",
+    "aircraftType": "widebody",
+    "airport": "Hobart International Airport",
+    "airline": "VietJet Air",
+    "inStock": true
+  },
+  {
+    "name": "Embraer EMB.110 Bandeirante",
+    "id": "mi39",
+    "priceInCents": "$8383601.00",
+    "aircraftType": "widebody",
+    "airport": "Fortaleza Pinto Martins International Airport",
+    "airline": "Aeromexico",
+    "inStock": true
+  },
+  {
+    "name": "Boeing 707",
+    "id": "7CF2",
+    "priceInCents": "$9288097.00",
+    "aircraftType": "narrowbody",
+    "airport": "Incheon International Airport",
+    "airline": "Fiji Airways",
+    "inStock": true
+  },
+  {
+    "name": "Boeing 767-200",
+    "id": "7bYF",
+    "priceInCents": "$8385938.00",
+    "aircraftType": "regional",
+    "airport": "London Heathrow Airport",
+    "airline": "Frontier Airlines",
+    "inStock": true
+  }
+]
